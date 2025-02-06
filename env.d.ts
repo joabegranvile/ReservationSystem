@@ -4,5 +4,6 @@ declare namespace NodeJS {
     PSQL_USER: string;
     PSQL_DATABASE: string;
     PSQL_PASSWORD: string;
+    PORT: number;
   }
 }
